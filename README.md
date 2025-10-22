@@ -1,5 +1,3 @@
-# 💻 Desenvolvedora Front-End 
-
 # Hi, eu sou a Bianca 👋
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-end;Criando+experiências+incríveis;Transformando+ideias+em+código" alt="Typing SVG" />
